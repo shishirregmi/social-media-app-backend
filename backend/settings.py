@@ -25,7 +25,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-85-6_tz(&y7oz6^zuf4&iwn6mdw*7j_x%i7%a0uk1(9r2uefxu'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['backend-social-media-eclipse.herokuapp.com', 'localhost', '127.0.0.1'] 
 
